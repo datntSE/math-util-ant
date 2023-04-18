@@ -10,11 +10,9 @@
 
 ### Screen-shots 
 
-![Build process with Ant]
-(https://github.com/datntse/math-util-ant/blob/main/screensource/build-app-by-ant-build-tool.png)
+![Build process with Ant](https://github.com/datntse/math-util-ant/blob/main/screensource/build-app-by-ant-build-tool.png)
 
-![DTT source code with JUnit]
-(https://github.com/datntse/math-util-ant/blob/main/screensource/ddt-source-with-junit.png)
+![DTT source code with JUnit](https://github.com/datntse/math-util-ant/blob/main/screensource/ddt-source-with-junit.png)
 
 #### Connect me via dat.nt271102@gmail.com
 
