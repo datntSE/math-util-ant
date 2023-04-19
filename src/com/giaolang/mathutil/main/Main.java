@@ -27,6 +27,7 @@ public class Main {
       
         System.out.println("This messange come from the main() method : ");
         System.out.println("This jar file is built based based ANT co-operating with JUNIT");
+        System.out.println("More over, this message come from a US-BUILD JAR FILE");
         tryTDDFrist();
     }
 
