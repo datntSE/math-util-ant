@@ -1,5 +1,6 @@
-# Welcome to Math Utility Repository
+[![CI with GitHub Actions using Ant and JUnit | © 2023 by datntse](https://github.com/datntse/math-util-ant/actions/workflows/ci-with-ant.yml/badge.svg)](https://github.com/datntse/math-util-ant/actions/workflows/ci-with-ant.yml)
 
+# Welcome to Math Utility Repository
 
 ### You will find in this repo the following stuff:
 
