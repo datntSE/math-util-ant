@@ -31,7 +31,7 @@ public class MathUtil {
         
 
         // CẤM KHÔNG XÀI ELSE NỮA KHI HÀM ĐÃ CÓ RETURN PHÍA TRƯỚC;
-        long product = 1; // accumunication variable;
+        long product = 10; // accumunication variable;
         for (int i = 2; i <= n; i++) 
             product *= i;
         
